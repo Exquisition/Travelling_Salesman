@@ -1,11 +1,11 @@
 # Travelling_Salesman
-solving the TSP using dynamic programming
+Solving the TSP using dynamic programming
 
 
 
 
 
-#Output using 12 cities
+## Output using 12 cities
 
 ![tspimage](https://user-images.githubusercontent.com/44716822/50576741-528b2280-0de6-11e9-9a20-04a64ee15a19.JPG)
 
